@@ -1,0 +1,63 @@
+body {
+    background-color: DarkCyan;
+    background-image: url("pic.jpg");
+    font-size: 30px;
+    font-family: Garamond, serif;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: black;
+    color: DarkCyan;
+    padding: 15px 32px;
+    font-size: 30px;
+    font-family: Garamond, serif;
+    font-weight: bold;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: white;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: black;
+    color: DarkCyan;
+    border-radius: 12px;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  form {
+    display: table;
+  }
+  
+  div {
+    display: table-row;
+  }
+  
+  input {
+    display: table-cell;
+    color: DarkCyan;
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 6px;
+    margin: 8px 4px;
+  }
+  
+  img {
+    max-width: 50%;
+    height: auto;
+  }
+  
+  label {
+    background-color: black;
+    color: DarkCyan;
+    border-radius: 6px;
+  }
+  
